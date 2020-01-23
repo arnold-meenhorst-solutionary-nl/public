@@ -44,7 +44,6 @@
                             "port": 80
                         }
                     ],
-                    "ip": "51.124.134.185",
                     "type": "Public"
                 },
                 "osType": "Linux"
